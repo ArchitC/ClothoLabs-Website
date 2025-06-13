@@ -27,13 +27,6 @@ body {
     margin-bottom: 20px;
 }
 
-.company-name {
-    font-size: 2.5rem;
-    color: #333;
-    margin-bottom: 10px;
-    font-weight: 600;
-}
-
 .tagline {
     font-size: 1.2rem;
     color: #666;
